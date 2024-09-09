@@ -1,4 +1,3 @@
-pip install streamlit flask firebase-admin requests beautifulsoup4 openai lxml
 from flask import Flask, request, jsonify
 import requests
 from bs4 import BeautifulSoup
