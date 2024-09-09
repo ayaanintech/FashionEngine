@@ -1,0 +1,6 @@
+streamlit
+flask 
+firebase-admin requests 
+beautifulsoup4 o
+penai 
+lxml
