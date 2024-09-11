@@ -2,7 +2,7 @@ Flask==2.1.1
 gunicorn==20.1.0
 requests==2.26.0
 streamlit 
-firebase-admin requests 
+firebase-admin  
 beautifulsoup4 o
 openai 
 lxml
